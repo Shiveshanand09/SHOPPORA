@@ -113,8 +113,7 @@ shoppora/
 <img width="1704" height="853" alt="Screenshot 2025-08-20 152306" src="https://github.com/user-attachments/assets/ef50e419-9eca-459e-a83c-54d3114dcc53" />
 
 ## Contact
-- GitHub: [@manumay11962](https://github.com/manumay1962)
-- Email: manumay8@gmail.com
+- Email: Shiveshanand8742@gmail.com
 
 HAPPY CODING
 
